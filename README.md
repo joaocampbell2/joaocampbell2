@@ -2,8 +2,8 @@
 <h1> João Campbell</h1>
 
 
-- 🌱 Cursando o ensino medio/tecnico de informática no CEFET-RJ
-- 🎨 Desenvolvedor Front-end
+- 🎮 Cursando o ensino medio/tecnico de informática no CEFET-RJ
+- 💻 Futuro programador
 - 📭 jpcampbell2012@hotmail.com
 
 ##
