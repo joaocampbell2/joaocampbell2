@@ -1,8 +1,8 @@
 <h1> João Campbell</h1>
 
 
-- 🎮 Cursando o ensino medio/tecnico de informática no CEFET-RJ
-- 💻 Futuro programador
+- 🎮 Técnico de informática no CEFET-RJ
+- 💻 Cursando Bacharelado de Sistemas de Informação na UNIRIO
 - 📭 jpcampbell2012@hotmail.com
 
 ##
