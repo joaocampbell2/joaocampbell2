@@ -9,7 +9,7 @@
 
 <div>
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaocampbell2&theme=onedark">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocampbell2&theme=onedark">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocampbell2&theme=onedark&layout=donut">
 </div>
 
 <div style="display: inline-block"><br>
